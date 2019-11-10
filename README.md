@@ -1,4 +1,4 @@
-# Privacy-Policy
+
 
 
 Lap Lap Entertainment LLC built the CubenatiK app as a Commercial app. This SERVICE is provided by Lap Lap Entertainment LLC and is intended for use as is.
@@ -17,7 +17,7 @@ The app does use third party services that may collect information used to ident
 
 Link to privacy policy of third party service providers used by the app
 
-# Google Play Services
+https://www.google.com/policies/privacy/
 
 # AdMob
 
