@@ -17,37 +17,21 @@ The app does use third party services that may collect information used to ident
 
 Link to privacy policy of third party service providers used by the app
 
-https://www.google.com/policies/privacy/
-
-# AdMob
-
-# Firebase Analytics
-
-# Facebook
-
-# Fabric
-
-# Crashlytics
-
-# Matomo
-
-# Clicky
-
-# Flurry Analytics
-
-# Appodeal
-
-# Fathom Analytics
-
-# Unity
-
-# SDKBOX
-
-# GameAnalytics
-
-# Log Data
-
-# App Lovin
+*   [Google Play Services](https://www.google.com/policies/privacy/)
+*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+*   [Firebase Analytics](https://firebase.google.com/policies/analytics)
+*   [Facebook](https://www.facebook.com/about/privacy)
+*   [Fabric](https://fabric.io/privacy)
+*   [Crashlytics](http://try.crashlytics.com/terms/privacy-policy.pdf)
+*   [Matomo](https://matomo.org/privacy-policy/)
+*   [Clicky](https://clicky.com/terms#privacy)
+*   [Flurry Analytics](https://privacy.oath.com)
+*   [Appodeal](https://www.appodeal.com/home/privacy-policy/)
+*   [Fathom Analytics](https://usefathom.com/privacy/)
+*   [Unity](https://unity3d.com/legal/privacy-policy)
+*   [SDKBOX](https://www.sdkbox.com/privacy)
+*   [GameAnalytics](https://gameanalytics.com/privacy)
+*   [AppLovin](https://applovin.com/privacy)
 
 We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
 
