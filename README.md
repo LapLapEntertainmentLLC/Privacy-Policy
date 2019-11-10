@@ -17,36 +17,37 @@ The app does use third party services that may collect information used to ident
 
 Link to privacy policy of third party service providers used by the app
 
-Google Play Services
+# Google Play Services
 
-AdMob
+# AdMob
 
-Firebase Analytics
+# Firebase Analytics
 
-Facebook
+# Facebook
 
-Fabric
+# Fabric
 
-Crashlytics
+# Crashlytics
 
-Matomo
+# Matomo
 
-Clicky
+# Clicky
 
-Flurry Analytics
+# Flurry Analytics
 
-Appodeal
+# Appodeal
 
-Fathom Analytics
+# Fathom Analytics
 
-Unity
+# Unity
 
-SDKBOX
+# SDKBOX
 
-GameAnalytics
+# GameAnalytics
 
-Log Data
+# Log Data
 
+# App Lovin
 
 We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
 
