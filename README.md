@@ -1,5 +1,5 @@
 
-                                               Privacy policy 
+                                           Privacy policy 
 
 Lap Lap Entertainment LLC built the CubenatiK app as a Commercial app. This SERVICE is provided by Lap Lap Entertainment LLC and is intended for use as is.
 
